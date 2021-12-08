@@ -1,0 +1,54 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: report.aux
+Reallocating 'name_of_file' (item size: 1) to 9 items.
+The style file: plainnat.bst
+Reallocating 'name_of_file' (item size: 1) to 11 items.
+Database file #1: references.bib
+Warning--to sort, need author or key in filter
+Warning--empty journal in bozepy
+Warning--empty year in bozepy
+Warning--empty journal in prometheus
+Warning--empty year in prometheus
+You've used 3 entries,
+            2773 wiz_defined-function locations,
+            603 strings with 5034 characters,
+and the built_in function-call counts, 901 in all, are:
+= -- 78
+> -- 20
+< -- 2
++ -- 10
+- -- 6
+* -- 59
+:= -- 131
+add.period$ -- 10
+call.type$ -- 3
+change.case$ -- 10
+chr.to.int$ -- 2
+cite$ -- 12
+duplicate$ -- 53
+empty$ -- 96
+format.name$ -- 8
+if$ -- 187
+int.to.chr$ -- 2
+int.to.str$ -- 1
+missing$ -- 2
+newline$ -- 24
+num.names$ -- 8
+pop$ -- 39
+preamble$ -- 1
+purify$ -- 8
+quote$ -- 0
+skip$ -- 32
+stack$ -- 0
+substring$ -- 7
+swap$ -- 4
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 33
+warning$ -- 5
+while$ -- 6
+width$ -- 0
+write$ -- 42
+(There were 5 warnings)
